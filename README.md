@@ -48,6 +48,8 @@ git checkout <sha key> = checks out that specific commit, so you can look throug
 
 git checkout master = most up to date commit
 
+git pull origin master = pulls from master and updates files locally
+
 
 
 # GitHub Basics
