@@ -62,4 +62,19 @@ git push -u origin master = pushes the master onto github. the authentication
 
 git push <remote repo> <branch> (git push origin master)
   
+git remote --v = shows the fetch and push
+
+
+
+# Bash (various commands)
+
+head file = display the first 10 lines of a file (useful if you dont want it to print out a massive txt file)
+
+ps = display currently running processes
+
+kill pid = kill process with process ID
+
   
+
+
+
