@@ -1,8 +1,6 @@
 # Bash Basics
 
-## Bash is a terminal window. It emulates a Linux environment. DevOps works on Linux environments.
-
-## Bash is a language.
+## Bash is a terminal window. It emulates a Linux environment. DevOps works on Linux environments. Bash is a language.
 
 pwd = print working directory (where am I?)
 
