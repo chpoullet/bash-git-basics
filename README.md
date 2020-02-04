@@ -1,6 +1,6 @@
 # Bash Basics
 
-## Bash is a terminal window. It emulates a Linux environment. DevOps works on Linux.
+## Bash is a terminal window. It emulates a Linux environment. DevOps works on Linux environments.
 
 ## Bash is a language.
 
@@ -58,7 +58,7 @@ git checkout master = most up to date commit
 
 git remote add origin https://github.com/chpoullet/bash-git-github-eng53.git
 
-git push -u origin master = pushes the master onto github. the authentication
+git push -u origin master = pushes the master onto github
 
 git push <remote repo> <branch> (git push origin master)
   
