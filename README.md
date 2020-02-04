@@ -29,4 +29,37 @@ cat = prints what is inside a file (for txts it will print the text inside)
 There are two absolute locations.  ~ = beginning of user directory.   /  = root directory
 
 
+
+# Git Basics
+
 echo ‘hello’ > example.txt = inputs hello into example.txt
+
+git init = creates a master directory for where you want your repository to be and be tracked
+
+git status = info about the repository 
+
+to remove the git just do --->           rm -rf .git
+
+git add . = will add everything to be tracked
+
+git commit -m “message” = git commit will save changes to your local repository. -m leaves a description to portray what you did.
+
+git log = portrays all previous edits and inputs in the repository
+
+git checkout <sha key> = checks out that specific commit, so you can look through the history of what was added etc.
+
+git checkout master = most up to date commit
+
+
+
+# GitHub Basics
+
+## The cloud for Git. Allows other people to pull changes and push commits.
+
+git remote add origin https://github.com/chpoullet/bash-git-github-eng53.git
+
+git push -u origin master = pushes the master onto github. the authentication
+
+git push <remote repo> <branch> (git push origin master)
+  
+  
