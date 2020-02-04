@@ -74,7 +74,5 @@ ps = display currently running processes
 
 kill pid = kill process with process ID
 
-  
-
-
+Cheat sheet: https://www.linuxtrainingacademy.com/linux-commands-cheat-sheet/
 
